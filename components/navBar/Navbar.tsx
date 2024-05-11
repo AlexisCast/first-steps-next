@@ -1,6 +1,5 @@
 import { HomeIcon } from "@primer/octicons-react";
 import Link from "next/link";
-import { text } from "stream/consumers";
 import { ActiveLink } from "../active-link/ActiveLink";
 
 const navItems = [
