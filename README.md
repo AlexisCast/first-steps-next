@@ -25,3 +25,4 @@ docker container run -p 3000:3000 first-steps-next
 
 ```
 
+Open [https://nextjs.org/docs/pages/building-your-application/deploying#docker-image](Docker Image) docker setup/config recommendations
